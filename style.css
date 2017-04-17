@@ -13,7 +13,7 @@ body{
     margin-right: auto;
     margin-top: auto;
     margin-bottom: 0px;
-    border-radius: 10px 10px 0px 0px;
+    border-radius: 10px 10px 10px 10px;
     background-color: #f2951d;
 }
 
@@ -31,5 +31,6 @@ body{
     display: block;
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
+    width: inherit;
     height: auto;
 }
