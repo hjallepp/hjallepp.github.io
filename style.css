@@ -27,14 +27,9 @@ body{
 
 }
 
-#img img {
+#img {
     display: block;
-    margin-top: 0px;
-    margin-left: auto;
-    margin-right: auto;
-    border-bottom-right-radius: 20px;
-    border-bottom-left-radius: 20px;
-    width: 80%;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
     height: auto;
-    max-width: 400px;
 }
