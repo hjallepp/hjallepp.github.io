@@ -1,5 +1,6 @@
 body{
-    background-color: #282828;
+    background-image: url(j2dx.github.io/cloth.png);
+    background-repeat: repeat;
     font-family: "Abel";
     text-align: center;
 }
@@ -11,6 +12,11 @@ body{
     border-radius: 10px 10px 10px 10px;
     background-color: #f2951d;
 }
+
+#head {
+    background-color: #282828;
+}
+
 #img img {
     display: block;
     margin: auto;
