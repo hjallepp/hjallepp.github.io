@@ -8,6 +8,7 @@ body{
     width: 400px;
     height: auto;
     margin: auto;
+    border-radius: 10px 10px 10px 10px;
     background-color: #f2951d;
 }
 #img img {
