@@ -12,8 +12,12 @@ body{
     margin-left: auto;
     margin-right: auto;
     margin-top: auto;
+<<<<<<< HEAD
     margin-bottom: 0px;
     border-radius: 10px 10px 10px 10px;
+=======
+    border-radius: 10px 10px 0px 0px;
+>>>>>>> parent of 513bbc0... change margin for image and box
     background-color: #f2951d;
 }
 
@@ -29,8 +33,16 @@ body{
 
 #img {
     display: block;
+<<<<<<< HEAD
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
     width: inherit;
+=======
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    width: 80%;
+>>>>>>> parent of 513bbc0... change margin for image and box
     height: auto;
 }
