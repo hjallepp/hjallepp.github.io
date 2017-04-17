@@ -4,7 +4,7 @@ body{
     font-family: "Abel";
     text-align: center;
     width: 80%;
-    max-width: 600dp;
+    max-width: 600px;
 }
 #box {
     display: block;
