@@ -10,7 +10,7 @@ body{
     margin: auto;
     background-color: #f2951d;
 }
-#img {
+#img img {
     display: block;
     margin: auto;
     border-radius: 20px;
