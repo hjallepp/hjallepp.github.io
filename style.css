@@ -33,5 +33,6 @@ body{
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
     width: 80%;
+    max-width: 400px;
     height: auto;
 }
