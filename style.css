@@ -10,3 +10,9 @@ body{
     margin: auto;
     background-color: #f2951d;
 }
+#img {
+    display: block;
+    margin: auto;
+    border-radius: 100px;
+    border: 2px solid white;
+}
