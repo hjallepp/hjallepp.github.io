@@ -1,12 +1,13 @@
 body{
-    background-color: #e0e0e0;
+    background-color: #282828;
     font-family: "Abel";
     text-align: center;
 }
 #box {
     display: block;
-    width: 40em;
-    height: 2em;
+    width: 400px;
+    height: auto;
     margin: auto;
     border-radius: 20px
+    background-color: #f2951d;
 }
