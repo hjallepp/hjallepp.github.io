@@ -3,11 +3,11 @@ body{
     background-repeat: repeat;
     font-family: "Abel";
     text-align: center;
-    width: 80%;
-    max-width: 600px;
 }
 #box {
     display: block;
+    width: 80%;
+    max-width: 800px;
     height: auto;
     margin-left: auto;
     margin-right: auto;
@@ -28,6 +28,8 @@ body{
 
 #pic {
     display: block;
+    width: 80%;
+    max-width: 800px;
     height: auto;
     margin-left: auto;
     margin-right: auto;
