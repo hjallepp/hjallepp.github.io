@@ -8,7 +8,6 @@ body{
 }
 #box {
     display: block;
-    width: inherit;
     height: auto;
     margin-left: auto;
     margin-right: auto;
@@ -29,10 +28,9 @@ body{
 
 #pic {
     display: block;
+    height: auto;
     margin-left: auto;
     margin-right: auto;
     border-bottom-right-radius: 10px;
     border-bottom-left-radius: 10px;
-    width: inherit;
-    height: auto;
 }
