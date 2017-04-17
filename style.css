@@ -9,10 +9,7 @@ body{
     width: 80%;
     max-width: 400px;
     height: auto;
-    margin-top: auto;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 2dp;
+    margin: auto;
     border-radius: 10px 10px 10px 10px;
     background-color: #f2951d;
 }
@@ -20,6 +17,10 @@ body{
 #head {
     background-color: #282828;
     color: #F8F8F8;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2dp;
     border-radius: 10px 10px 0px 0px;
 }
 
