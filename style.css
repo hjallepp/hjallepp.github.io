@@ -17,11 +17,11 @@ body{
 #head {
     background-color: #282828;
     color: #F8F8F8;
-    margin-top: auto;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 2dp;
     border-radius: 10px 10px 0px 0px;
+}
+
+#para {
+    
 }
 
 #img img {
