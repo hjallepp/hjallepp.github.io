@@ -10,7 +10,7 @@ body{
     max-width: 400px;
     height: auto;
     margin: auto;
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 0px 0px;
     background-color: #f2951d;
 }
 
@@ -21,13 +21,13 @@ body{
 }
 
 #para {
-    
+
 }
 
 #img img {
     display: block;
-    margin: auto;
-    border-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
     width: 80%;
     height: auto;
     max-width: 400px;
