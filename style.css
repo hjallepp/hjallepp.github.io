@@ -2,7 +2,7 @@ body{
     background-image: url(hjallepp.github.io/img/seigaiha.png);
     background-repeat: repeat;
     font-family: "Abel";
-    text-align: center;
+    font-size: large;
 }
 #box {
     display: block;
@@ -11,28 +11,38 @@ body{
     height: auto;
     margin-left: auto;
     margin-right: auto;
-    margin-top: auto;
-    border-radius: 10px 10px 0px 0px;
-    background-color: #f2951d;
+    margin-top: 0;
+    margin-bottom: 0;
+    border: 0;
+    border-radius: 0px 0px 0px 0px;
 }
 
-#head {
+#header {
     background-color: #282828;
+    text-align: center;
     color: #F8F8F8;
     border-radius: 10px 10px 0px 0px;
+    margin-top: 0;
+    margin-bottom: 0;
+    border: 0;
 }
 
 #p {
-
+  background-color: #f2951d;
+  text-align: left;
+  margin-top: 0;
+  margin-bottom: 0;
+  border: 0;
+  padding: 5%;
 }
 
 #pic {
     display: block;
-    width: 80%;
-    max-width: 800px;
-    height: auto;
     margin-left: auto;
     margin-right: auto;
-    border-bottom-right-radius: 10px;
-    border-bottom-left-radius: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+    border: 0;
+    width: 80%;
+    max-width: 800px;
 }
