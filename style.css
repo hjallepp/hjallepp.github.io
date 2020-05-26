@@ -7,14 +7,23 @@
 @font-face {
   font-family: Neon; src: url('rsc/Neon.ttf'); }
 
-body{
-    background-image: url(img/seigaiha.png);
-    background-repeat: repeat;
-    font-family: "Abel";
-    font-size: large;
-    width: 50%;
-    min-width: 800px;
-    margin: 0 auto;
+@keyframes turn-black {
+  from {
+    background-color: #f2951d;
+  }
+  to {
+    background-color: black;
+  }
+}
+
+body {
+  background-image: url(img/seigaiha.png);
+  background-repeat: repeat;
+  font-family: "Abel";
+  font-size: large;
+  width: 50%;
+  min-width: 800px;
+  margin: 0 auto;
 }
 
 footer {
@@ -32,18 +41,33 @@ footer {
   float: left;
   margin: auto;
   padding: 10px;
+  font-size: 2em;
 }
 
-.navbar{
+#mainNav {
+
+}
+
+.navbar {
+  margin-top: 1%;
   overlfow: hidden;
   background-color: #f2951d;
-  /* min-height: 72px; */
+  width: 100%;
+  text-align: center;
+  min-height: 55px;
 }
 
-.navbar a {
+.navbar-marked {
+  animation: turn-black 0.5s;
+  background-color: black;
+}
+
+.navbutton {
+  /* position: absolute; */
+  display: inline-block;
   min-width: 75px;
-  float: left;
-  text-align: center;
+  /* float: left; */
+  /* text-align: center; */
   font-size: 2em;
   color: black;
   padding: 10px;
@@ -51,12 +75,7 @@ footer {
 }
 
 .navbar a:hover {
-  background-color: black;
   color: white;
-}
-
-.navbar a.active {
-  border-bottom: 4px solid white
 }
 
 .column {
@@ -64,7 +83,10 @@ footer {
   color: #F8F8F8;
   display: block;
   margin-top: 1%;
-  padding: 1%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  padding-left: 15%;
+  padding-right: 15%;
 }
 
 .banner {
@@ -93,20 +115,8 @@ footer {
   position: absolute;
   height: 100%;
   width: 100%;
-  top: 20%;
+  top: 10%;
   text-align: center;
   color: #F8F8F8;
-  font-size: 50px;
-}
-
-.container {
-  display: inline-block;
-  position: relative;
-  color: white;
-  background-color: black;
-}
-
-
-#clearingdiv {
-    clear: both;
+  font-size: 70px;
 }
