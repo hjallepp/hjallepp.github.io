@@ -1,48 +1,112 @@
+/*
+  nice orange color #f2951d
+  black color #282828
+  white color #F8F8F8
+*/
+
+@font-face {
+  font-family: Neon; src: url('rsc/Neon.ttf'); }
+
 body{
-    background-image: url(hjallepp.github.io/img/seigaiha.png);
+    background-image: url(img/seigaiha.png);
     background-repeat: repeat;
     font-family: "Abel";
     font-size: large;
-}
-#box {
-    display: block;
-    width: 80%;
-    max-width: 800px;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 0;
-    margin-bottom: 0;
-    border: 0;
-    border-radius: 0px 0px 0px 0px;
+    width: 50%;
+    min-width: 800px;
+    margin: 0 auto;
 }
 
-#header {
-    background-color: #282828;
-    text-align: center;
-    color: #F8F8F8;
-    border-radius: 10px 10px 0px 0px;
-    margin-top: 0;
-    margin-bottom: 0;
-    border: 0;
-}
-
-#p {
+footer {
+  margin-top: 1%;
   background-color: #f2951d;
-  text-align: left;
-  margin-top: 0;
-  margin-bottom: 0;
-  border: 0;
-  padding: 5%;
+  min-height: 50px;
 }
 
-#pic {
-    display: block;
+.footbar {
+    overflow: hidden;
+}
+
+.footbar i {
+  /* background-color: inherit; */
+  float: left;
+  margin: auto;
+  padding: 10px;
+}
+
+.navbar{
+  overlfow: hidden;
+  background-color: #f2951d;
+  /* min-height: 72px; */
+}
+
+.navbar a {
+  min-width: 75px;
+  float: left;
+  text-align: center;
+  font-size: 2em;
+  color: black;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: black;
+  color: white;
+}
+
+.navbar a.active {
+  border-bottom: 4px solid white
+}
+
+.column {
+  background-color: black;
+  color: #F8F8F8;
+  display: block;
+  margin-top: 1%;
+  padding: 1%;
+}
+
+.banner {
+    display: inline-block;
+    position: relative;
+    border-radius: 20px 20px 0px 0px;
+    margin-top: 1%;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 0;
-    margin-bottom: 0;
     border: 0;
-    width: 80%;
-    max-width: 800px;
+    width: 100%;
+    max-height: 250px;
+    overflow: hidden;
+}
+
+.banner img {
+  display: block;
+  width: 100%;
+  /* margin-top: -25%;
+  margin-bottom: -20%;
+  margin-right: -40%; */
+}
+
+.banner p {
+  font-family: Neon;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 20%;
+  text-align: center;
+  color: #F8F8F8;
+  font-size: 50px;
+}
+
+.container {
+  display: inline-block;
+  position: relative;
+  color: white;
+  background-color: black;
+}
+
+
+#clearingdiv {
+    clear: both;
 }
