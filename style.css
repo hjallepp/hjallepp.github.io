@@ -26,22 +26,31 @@ body {
   margin: 0 auto;
 }
 
-footer {
-  margin-top: 1%;
-  background-color: #f2951d;
-  min-height: 50px;
-}
-
 .footbar {
     overflow: hidden;
+    margin-top: 1%;
+    padding: 1%;
+    background-color: #f2951d;
+    width: 100%;
+    text-align: center;
 }
 
-.footbar i {
+.footbar a {
   /* background-color: inherit; */
-  float: left;
   margin: auto;
-  padding: 10px;
-  font-size: 2em;
+  /* padding: 10px; */
+  margin-left: 1%;
+  margin-right: 1%;
+  font-size: 1em;
+  display: inline-block;
+  color: black;
+}
+
+.footbar p {
+  text-align: center;
+  margin-top: 1%;
+  margin-bottom: 0px;
+  padding: 0px;
 }
 
 #mainNav {
@@ -63,11 +72,8 @@ footer {
 }
 
 .navbutton {
-  /* position: absolute; */
   display: inline-block;
   min-width: 75px;
-  /* float: left; */
-  /* text-align: center; */
   font-size: 2em;
   color: black;
   padding: 10px;
