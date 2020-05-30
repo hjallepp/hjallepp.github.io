@@ -7,14 +7,6 @@
 @font-face {
   font-family: Neon; src: url('rsc/Neon.ttf'); }
 
-@keyframes turn-black {
-  from {
-    background-color: #f2951d;
-  }
-  to {
-    background-color: black;
-  }
-}
 
 body {
   background-image: url(img/seigaiha.png);
@@ -67,7 +59,7 @@ body {
 }
 
 .navbar-marked {
-  animation: turn-black 0.5s;
+  transition: all 1s;
   background-color: black;
 }
 
@@ -82,6 +74,7 @@ body {
 
 .navbar a:hover {
   color: white;
+  transition: all 1s;
 }
 
 .column {
