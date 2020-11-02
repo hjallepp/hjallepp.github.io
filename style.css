@@ -58,6 +58,7 @@ header .navbar-hover {
     margin-top: 1%;
     padding-top: 1%;
     padding-bottom: 1%;
+    border-radius: 0px 0px 20px 20px;
     background-color: #f2951d;
     width: 100%;
     text-align: center;
