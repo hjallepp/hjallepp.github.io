@@ -16,12 +16,22 @@
       </div>
       <!-- Navigation Bar for my projects -->
       <!-- add class="active" to the anchor element that represents the page -->
-      <div id="mainNav" class="navbar">
+      <header>
+        <nav>
+          <ul id="navbar" class="navitems">
+            <li><a class="navicon" href="#Shush"><i class="fas fa-terminal"></i></a></li>
+            <li><a class="navicon" href="#PiggyDB"><i class="fas fa-database"></i></a></li>
+            <li><a class="navicon" href="#HJARBALLER"><i class="fas fa-file-archive"></i></a></li>
+            <li><a class="navicon" href="#budgeteer"><i class="fas fa-piggy-bank"></i></a></li>
+          </ul>
+        </nav>
+      </header>
+      <!-- <div id="navigation" class="navbar">
         <a class="navbutton" href="#Shush"><i class="fas fa-terminal"></i></a>
         <a class="navbutton" href="#PiggyDB"><i class="fas fa-database"></i></a>
         <a class="navbutton" href="#HJARBALLER"><i class="fas fa-file-archive"></i></a>
         <a class="navbutton" href="#budgeteer"><i class="fas fa-piggy-bank"></i></a>
-      </div>
+      </div> -->
       <div class="column">
         Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
       </div>
@@ -36,19 +46,19 @@
 
       <!-- The Scriptiest Scripts! -->
       <script type="text/javascript">
-        let nav = document.getElementById('mainNav');
-        let buttons = document.getElementsByClassName('navbutton')
-        for (let item of buttons) {
+        let nav = document.getElementById('navbar');
+        let icons = document.getElementsByClassName('navicon')
+        for (let item of icons) {
             item.addEventListener("mouseover", () => {
-              nav.classList.add("navbar-marked");
+              nav.classList.add("navbar-hover");
             });
             item.addEventListener("mouseout", () => {
-              nav.classList.remove("navbar-marked");
+              nav.classList.remove("navbar-hover");
             });
         }
 
         console.log(nav);
-        console.log(buttons);
+        console.log(icons);
       </script>
     </body>
 </html>
