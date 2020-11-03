@@ -6,6 +6,13 @@
     <link href='https://fonts.googleapis.com/css?family=Abel' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css" integrity="sha384-Bfad6CLCknfcloXFOyFnlgtENryhrpZCe29RTifKEixXQZ38WheV+i/6YWSzkz3V" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href=style.css>
+
+    <!-- zero-md config stuff -->
+    <!-- Lightweight client-side loader that feature-detects and load polyfills only when necessary -->
+    <script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
+    <!-- Load the element definition -->
+    <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
+
   </head>
 <html>
     <body>
@@ -33,7 +40,21 @@
         <a class="navbutton" href="#budgeteer"><i class="fas fa-piggy-bank"></i></a>
       </div> -->
       <div class="column">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          <zero-md src="blog.md">
+            <template>
+              <style media="screen">
+                h1 {
+                  margin-top: 0%;
+                  margin-bottom: 1%;
+                }
+                p {
+                  margin-top: 0%;
+                  margin-bottom: 1%;
+                }
+                hr { color: #F8F8F8;}
+              </style>
+            </template>
+          </zero-md>
       </div>
 
       <!-- Footer with contact info -->
