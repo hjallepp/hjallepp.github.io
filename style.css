@@ -18,7 +18,15 @@ body {
   margin: 0 auto;
 }
 
-li, a {
+ul {
+  letter-spacing: -1em;
+}
+
+ul li {
+  letter-spacing: normal;
+}
+
+a {
   color: black;
 }
 
@@ -28,7 +36,7 @@ header {
   background-color: #f2951d;
 }
 
-header .navbar-hover {
+header .navbtn-hover {
   background-color: black;
   transition: all 1s;
 }
