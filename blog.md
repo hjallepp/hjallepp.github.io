@@ -1,3 +1,13 @@
+# Great News! We have an idea: Nov 9, 2020
+
+So, it seems the group has come into an agreement. A concept is really taking shape and it's quite fun. I won't be describing it here quite yet, but there is a basic mechanic and several choices as to what kind of path we will take. But it's a puzzle and exploration game based on a fun physics twist. I'm excited. And the team seems to be as well.  
+
+It is difficult to really know what the very first steps should be though. Obviously there's a presentation coming up, but that's not more than an hour of quick work as soon as we have agreed properly. But really getting started to actually build our game, how does a group our size take a first step? We've planned to have a sit down and start hashing out tasks. But that seems like a overkill if the entire group is present.  
+
+I'd really like for us to have a proper creative director who takes it upon themselves to bang out the initial vision while the rest of the group start tinkering with the engine. We'll be going with Unity, so that's a start. But we can't all be doing the same thing. There needs to be a division. Maybe if we split into managerial, creative and backend divisions. Then there's max two people getting a task going which makes sense. I'll probably suggest something along those lines tomorrow. Seems like a classic mistake to have the entire crew be involved in all the movements and we should get away from that asap.  
+
+Anyhow, progress is happening. Once we clear this initial hurdle, we'll smash through the rest like a mechanized rhino in a jet-engine factory.
+
 # Brainstorming: NOVEMBER 6, 2020
 
 The project group had its very first meeting today. So far so good. I'm cautiously optimistic so far. I think it's safe to hope, without risk of too much heartache, that this group will work well together. We had a quick meet and greet, spoke a bit about backgrounds and ambition, went over what organizational tools we'll be using and had us a quick brainstorm.  
