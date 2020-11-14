@@ -1,3 +1,9 @@
+# My Kingdom for some organization: Nov 14, 2020
+
+So, first there was a quick pitch on Thursday the 11th, which went quite well. We presented what is going to be our core mechanic; a small player character solving puzzles in an exploratory environment by changing his own state of matter. We got some great feedback and have since brainstormed further details. We will be telling the story of **Biscuit the sentient cookie dough** who is on a quest to escape the lab in which he was created without becoming baked into a pastry.  
+
+We also setup a Trello board and devized what we hope will be an effective way to use it. A sort of slight variation on the simple Kanban board. We won't be scrumming, since the project will hardly reach a size where that would be meaningful, and it's a pretty clumsy framework anyway. Better to keep it simple and do a lot of testing. We have also starterd playing with some physics in Unity, which will be our primary tool. In the week to come we will build a first playable demo. The group is pretty excited and things are coming along nicely. We just have to cross that first hurdle where we go from nothing into an actual code project that can be effectively worked on. A task that is deceitfully complex. Even for masters of the Universe like us.  
+
 # Great News! We have an idea: Nov 9, 2020
 
 So, it seems the group has come into an agreement. A concept is really taking shape and it's quite fun. I won't be describing it here quite yet, but there is a basic mechanic and several choices as to what kind of path we will take. But it's a puzzle and exploration game based on a fun physics twist. I'm excited. And the team seems to be as well.  
