@@ -1,8 +1,20 @@
+# Demos and Playtesting: Nov 20, 2020
+
+Alright. We're cooking. While the rest of the team seem occupied by a lot of other tasks, and the distance aspect is making it really hard to get a proper flow going. Life needs process. More so now than ever. Everything is off kilter. We don't reason the same, don't see the world the same, don't name our git commits the same. Every course has been like this for almost a year and it's driving me crazy.  
+
+BUT, we are actually making some progress. There is some physics in place that looks really nice and despite the difficulty really reaching a cohesive vision amongst us, I still think stuff looks remarkably like what at least I had in mind from the start. I'm doing what I can to keep a conversation going but I find it far outside my own capacity to actually bring a team to that point. It takes a long time to bring real cooperative symmetry when people work in the same room, now we won't even get to do it once.  
+
+Oh well. We'll do what we can. In either event, we are getting great feedback on the idea and I'm actually starting to learn how Unity works. Soon we'll be able to do some actual playtesting. Figure out what is fun and what is less fun. I did notice that I could'nt even imagine what a first puzzle level might look like. In my head, the game is much more platformer action than a pure puzzle game. Fortunately it's not only my task to figure that out. And if the game is better as something else, that's what we'll make. The Hugo award winning story would fit anything and most of our ideas could really go any direction while still being great. We'll see. 
+
+---
+
 # My Kingdom for some organization: Nov 14, 2020
 
 So, first there was a quick pitch on Thursday the 11th, which went quite well. We presented what is going to be our core mechanic; a small player character solving puzzles in an exploratory environment by changing his own state of matter. We got some great feedback and have since brainstormed further details. We will be telling the story of **Biscuit the sentient cookie dough** who is on a quest to escape the lab in which he was created without becoming baked into a pastry.  
 
 We also setup a Trello board and devized what we hope will be an effective way to use it. A sort of slight variation on the simple Kanban board. We won't be scrumming, since the project will hardly reach a size where that would be meaningful, and it's a pretty clumsy framework anyway. Better to keep it simple and do a lot of testing. We have also starterd playing with some physics in Unity, which will be our primary tool. In the week to come we will build a first playable demo. The group is pretty excited and things are coming along nicely. We just have to cross that first hurdle where we go from nothing into an actual code project that can be effectively worked on. A task that is deceitfully complex. Even for masters of the Universe like us.  
+
+---
 
 # Great News! We have an idea: Nov 9, 2020
 
@@ -13,6 +25,8 @@ It is difficult to really know what the very first steps should be though. Obvio
 I'd really like for us to have a proper creative director who takes it upon themselves to bang out the initial vision while the rest of the group start tinkering with the engine. We'll be going with Unity, so that's a start. But we can't all be doing the same thing. There needs to be a division. Maybe if we split into managerial, creative and backend divisions. Then there's max two people getting a task going which makes sense. I'll probably suggest something along those lines tomorrow. Seems like a classic mistake to have the entire crew be involved in all the movements and we should get away from that asap.  
 
 Anyhow, progress is happening. Once we clear this initial hurdle, we'll smash through the rest like a mechanized rhino in a jet-engine factory.
+
+---
 
 # Brainstorming: NOVEMBER 6, 2020
 
