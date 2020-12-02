@@ -1,8 +1,18 @@
+# Management 101: Dec 2: 2020
+
+I think one major issue has been that I've neglected the need to actively follow up on how people are getting along. I've just encouraged them to come tell me what they are working on and update me on their situation. What should have happened is me going to them, asking them how things are coming along and what they need. So one lesson here is that even though I made the right move establishing a management role in the group, I didn't actually do that work myself.
+
+It was quite difficult though. Knowing when and how often to get in touch. And also there wasn't a natural vector for it. What's more is today we payed the price with our first merge conflict. It wasn't too serious. But one of our active branches had become quite cluttered and it was obvious that people hasn't fully understood how I intended the workflow to progress. It also became obvious that the priorities weren't clear either. Or the current goal.
+
+It was my job to keep people organized. If I'm not going to make sure they fully understood the maze of instructions I give them, I may as well not tell them anything at all. So the lesson here is that no matter how nice and neat i believe my project structure is, it will never survive first contact with reality if I'm not actively there showing the way. 
+
+Despite any erosion's in order we may have suffered, some good things came out of today. Some new movement physics that actually look pretty nice. And we are very close to a first level. There's also some nice placeholder stuff for a menu screen and many good ideas are in the pipe. We just need to organize ourselves again and comfortable. Then we'll zoom away and nothing will stop us. Except maybe death.
+
 # The good old half-way-plateau: Dec 1, 2020
 
 While the team has gotten a good restart these last two days, the last two weeks have been remarkably slow. Only some small tasks got solved and essentially no milestones where reached. Which unfortunately is a big failure of my responsibilities. On the one hand I could go easy on myself since a project like this can't really expect me to fully carry a managing role, but I did take it upon myself to carry the managerial side of things. And I have been doing it more than ever before. But the team is still unsure of what to do, don't share the same vision and aren't working towards the same goal. There are some mitigating circumstances for sure, but I'm starting to suspect that I am a larger part of the problem than I thought. After all, the one thing every single crappy team project I've been apart of have in common is, well... me.
 
-So what to do. I'm getting some assistance from the fact that the deadline is racing towards us and now the panic is spreading in the ranks. Also, most of us are getting liberated from very intensive phases in other courses. So there is hope. Two weeks are quite enough to achieve some pretty great things. We still need to work on getting a more rigid git routine and to use the trello board better. There is also the matter of documenting all the work we are doing, and not get lost in the treacherous rush of just working and keeping everything in our own heads. I'm feeling fairly confident that things will turn around and pan out in the end. 
+So what to do. I'm getting some assistance from the fact that the deadline is racing towards us and now the panic is spreading in the ranks. Also, most of us are getting liberated from very intensive phases in other courses. So there is hope. Two weeks are quite enough to achieve some pretty great things. We still need to work on getting a more rigid git routine and to use the trello board better. There is also the matter of documenting all the work we are doing, and not get lost in the treacherous rush of just working and keeping everything in our own heads. I'm feeling fairly confident that things will turn around and pan out in the end.
 
 # Demos and Playtesting: Nov 20, 2020
 
