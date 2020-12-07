@@ -1,3 +1,9 @@
+# Crunch-Time: Dec 7, 2020
+
+It has arrived. The last week of development. I guess we're not in a bad pace for it, but I have to admit that I find our progress to be a bit mediocre. We really never managed to get into the combined vision until this very Monday. At least I think we actually are on the same page. There is a demo script that details most of the things we need to make. The list is quite long though, and due to our ineffective application so far we really don't have much to start from. One really good piece of news however is that we managed to run some test scenes in a browser. From what we can see, we aren't pushing the limits of computational ability of firefox, so our finished game will probably run fine. Wonderful! Had it not worked there was a backup plan, but this just works MUCH better int terms of presentation. Interested in our game? Just go to the website and play the demo within 30 seconds.
+
+Even if the list of todos is long, the idea is still really good and the demo is actually going to look quite good. I just hope we can finish enough to make it pop! This will be a fun week. 
+
 # Management 101: Dec 2: 2020
 
 I think one major issue has been that I've neglected the need to actively follow up on how people are getting along. I've just encouraged them to come tell me what they are working on and update me on their situation. What should have happened is me going to them, asking them how things are coming along and what they need. So one lesson here is that even though I made the right move establishing a management role in the group, I didn't actually do that work myself.
