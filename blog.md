@@ -1,3 +1,20 @@
+# The Proverbial Light: Dec 10, 2020
+
+My sterling managerial skills showed their full prowess today. First the team member that was supposed to come to a presentation did an all-nighter and was to broken to attend. Then we did some desperate scurrying to somehow solve the situation, but gave up pretty soon when no solution seemed in sight. But after the professor had been informed that nobody would be attending the, fortunately voluntary, presentation; one team member who hadn't been part of the initial conversation at all turned up the presentation anyway. So on the one hand, we got to show of some stuff and get a little bit of feedback. But we must have looked pretty damn disorganized.
+
+This time, nothing was actually at stake. But what if it had been. I actually tried organizing this event properly. Certainly, for the purpose of the course I'm not actually carrying the full responsibility that a manager would in the real world scenario. But there are limits to how clumsily things can be allowed to unfold.
+
+I actually did fairly well in terms of organizing what needs to get done until **D-day**. We had a set of tasks, priorites and essentially all we needed. But the team was unable to dedicate the time needed to actually complete everything we wanted by this morning. In terms of lessons, I have thought of a couple of things in the communications department that I could have improved.
+
+ 1. Set up com-channels with clear *discussion* and *update* tags. The newsfeed of information that is essential for everyone has to be parsable. In our case, it has often been wrapped in dozens of regular chat messages, which makes it exhausting to keep up.
+ 2. Directory discipline. I always forget stuff like this. The folder with all our stuff needs to be kept clean as a baby's bottom. We mentioned git and talked about stuff adjacent to this at the start of the project. But things where never properly formalized, so now we have a increasingly messy project folder with thousands of files that can't be moved now without a buttload of dependency problems.
+
+ One piece of good news, the Trello model actually works. The team still doesn't quite get how to use it, since I made it up. I can confirm however that constantly working towards implementing the most simple version of the task every time is the way to go. That way, it becomes realistic to define what is a completed task, and then you just redefine based on the improvements you can see from the simpler proto version we just built.
+
+ I'm sure this will prove completely useless in the future when something I haven't considered at all makes an entrance. War is hell.
+
+---
+
 # Crunch-Time: Dec 7, 2020
 
 It has arrived. The last week of development. I guess we're not in a bad pace for it, but I have to admit that I find our progress to be a bit mediocre. We really never managed to get into the combined vision until this very Monday. At least I think we actually are on the same page. There is a demo script that details most of the things we need to make. The list is quite long though, and due to our ineffective application so far we really don't have much to start from. One really good piece of news however is that we managed to run some test scenes in a browser. From what we can see, we aren't pushing the limits of computational ability of firefox, so our finished game will probably run fine. Wonderful! Had it not worked there was a backup plan, but this just works MUCH better int terms of presentation. Interested in our game? Just go to the website and play the demo within 30 seconds.
