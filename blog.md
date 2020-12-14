@@ -1,3 +1,17 @@
+# T-24 hours: Dec 14, 2020
+
+Every single group member except for me is taking a course in advanced graphics, and that damn thing has eaten up so much of our time now that I may have to claim vengeance. I will have satisfaction! Amusingly, *other* courses seem to always be stealing all the time away. People are constantly having meeting and deadlines all the time. Sometimes I wonder if we're not just all stuck in a constant circular fall into a void of alternative responsibilities.
+
+It's the day before demo day. Ironically, all of us have a bunch of other things we have to do by tomorrow. The very unfortunate effect of having a important master thesis deadline on the same day as the demo. And I have an examination in my *other* course as well. Fortunately, the time stolen away by that is set in stone, so I won't find myself at 3 AM up to my knees in madness.
+
+We have a pretty clear set of priorities right now. There's a list of issues that need solving, of which some are critical, and others are a bonus. The critical ones seem achievable thankfully. But I am concerned about exactly how much time the team will have to dedicate to this course in the end. I'm getting the feeling that the attention is being directed away from this project, which is unfortunate, because to me, I'd like to focus the most right here. So once again, a discrepancy in personal attention is turning the KTH experience into a dull and drab affair. I shouldn't count us out just yet though.
+
+I've tried figuring out what I can do to direct people's capabilities a bit better, and get the team more focused. Clearly, just organizing is not the key. I've never had a project that was more technically organized, but we still haven't been sharing a vision or been fully invested together. I've encountered the idea that a team must feel a sense of shared fate to really become synced. That makes a lot of sense. And seems utterly unattainable, especially when we never even meet in person once. It seems completely beyond my reach honestly. But at the same time, a professional manner has to count for something. I feel like I've at least gathered a little bit of data now that might make a difference next time. To bad I won't be doing any more project courses for the duration of my University studies. Reality, here I come, woefully unprepared.
+
+By this time tomorrow we'll have shown our game and this whole affair will mostly be over. Only the documentation will remain, where my previous organizational preparations will absolutely benefit us in terms of workload. 
+
+---
+
 # The Proverbial Light: Dec 10, 2020
 
 My sterling managerial skills showed their full prowess today. First the team member that was supposed to come to a presentation did an all-nighter and was to broken to attend. Then we did some desperate scurrying to somehow solve the situation, but gave up pretty soon when no solution seemed in sight. But after the professor had been informed that nobody would be attending the, fortunately voluntary, presentation; one team member who hadn't been part of the initial conversation at all turned up the presentation anyway. So on the one hand, we got to show of some stuff and get a little bit of feedback. But we must have looked pretty damn disorganized.
