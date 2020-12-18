@@ -1,3 +1,19 @@
+# One Post To Find Them, And In The Darkness Bind Them: Dec 18, 2020
+
+Ok, so essentially that's done. As this post is being written, the final report is being finished and by midnight tonight at the latest this course will be over. I'm not especially pleased with my own effort in this game, but I would at least say I more than did my share of the work. All in all, apart from the Creative Director, I put the most hours into the project of the whole team.
+
+I would say that I also pulled the most weight in the GDD as well. During the whole course of the project I tinkered a lot with that document and tried to keep it updated and partially filled in. The general structure was set by me so that we easily could divide the work into blocks that just needed to be expanded and filled in. In terms direct contribution, the *Business Plan* section and the *development procedures and standards* section are mine.
+
+All in all, the biggest problem I had with this project is that I never had especially fun. That seems to be a recurring issue. I've been quite the bitter little smurf lately. Displeased with my own as well as my colleagues work. And there's not really a reason for that. In most respects, the team has performed quite well, with some exceptions. In the context, I think most of the team was as dependable as I could rightfully expect. And in terms of achievements, we did get further than I have in many other courses. On top of that, the idea is really good, and is one that I would really like to keep working on after this course.
+
+The presentation didn't go to bad either. We got some last minute absurd bugs of the kind that are essentially impossible to predict. While we would have caught them a little bit earlier if the team as a whole got a better routine for testing, there was never enough time to fix them. Besides, problems like that are really a rite of passage, and I'm bringing a ton of personal experience in terms of process with me from this course. Which is really what I wanted the most.
+
+So, silver lining. I'll take that small victory and go enjoy Christmas.
+
+`kay bye!`
+
+---
+
 # T-24 hours: Dec 14, 2020
 
 Every single group member except for me is taking a course in advanced graphics, and that damn thing has eaten up so much of our time now that I may have to claim vengeance. I will have satisfaction! Amusingly, *other* courses seem to always be stealing all the time away. People are constantly having meeting and deadlines all the time. Sometimes I wonder if we're not just all stuck in a constant circular fall into a void of alternative responsibilities.
@@ -8,7 +24,7 @@ We have a pretty clear set of priorities right now. There's a list of issues tha
 
 I've tried figuring out what I can do to direct people's capabilities a bit better, and get the team more focused. Clearly, just organizing is not the key. I've never had a project that was more technically organized, but we still haven't been sharing a vision or been fully invested together. I've encountered the idea that a team must feel a sense of shared fate to really become synced. That makes a lot of sense. And seems utterly unattainable, especially when we never even meet in person once. It seems completely beyond my reach honestly. But at the same time, a professional manner has to count for something. I feel like I've at least gathered a little bit of data now that might make a difference next time. To bad I won't be doing any more project courses for the duration of my University studies. Reality, here I come, woefully unprepared.
 
-By this time tomorrow we'll have shown our game and this whole affair will mostly be over. Only the documentation will remain, where my previous organizational preparations will absolutely benefit us in terms of workload. 
+By this time tomorrow we'll have shown our game and this whole affair will mostly be over. Only the documentation will remain, where my previous organizational preparations will absolutely benefit us in terms of workload.
 
 ---
 
