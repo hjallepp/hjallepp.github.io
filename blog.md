@@ -1,109 +1,16 @@
-# One Post To Find Them, And In The Darkness Bind Them: Dec 18, 2020
+# The Course Blog That Made No Impact
 
-Ok, so essentially that's done. As this post is being written, the final report is being finished and by midnight tonight at the latest this course will be over. I'm not especially pleased with my own effort in this game, but I would at least say I more than did my share of the work. All in all, apart from the Creative Director, I put the most hours into the project of the whole team.
-
-I would say that I also pulled the most weight in the GDD as well. During the whole course of the project I tinkered a lot with that document and tried to keep it updated and partially filled in. The general structure was set by me so that we easily could divide the work into blocks that just needed to be expanded and filled in. In terms direct contribution, the *Business Plan* section and the *development procedures and standards* section are mine.
-
-All in all, the biggest problem I had with this project is that I never had especially fun. That seems to be a recurring issue. I've been quite the bitter little smurf lately. Displeased with my own as well as my colleagues work. And there's not really a reason for that. In most respects, the team has performed quite well, with some exceptions. In the context, I think most of the team was as dependable as I could rightfully expect. And in terms of achievements, we did get further than I have in many other courses. On top of that, the idea is really good, and is one that I would really like to keep working on after this course.
-
-The presentation didn't go to bad either. We got some last minute absurd bugs of the kind that are essentially impossible to predict. While we would have caught them a little bit earlier if the team as a whole got a better routine for testing, there was never enough time to fix them. Besides, problems like that are really a rite of passage, and I'm bringing a ton of personal experience in terms of process with me from this course. Which is really what I wanted the most.
-
-So, silver lining. I'll take that small victory and go enjoy Christmas.
-
-`kay bye!`
+Within this entry ye will find the last words of David The Plainclothed, as he recounts the experience of participating in a Game Design course at KTH in the fall of the year of our lord 2020. Look below, for the entries describing the descent into madness. Tremble ye faithful.
 
 ---
 
-# T-24 hours: Dec 14, 2020
+## GETTING MY BLOG ON: NOVEMBER 3, 2020
 
-Every single group member except for me is taking a course in advanced graphics, and that damn thing has eaten up so much of our time now that I may have to claim vengeance. I will have satisfaction! Amusingly, *other* courses seem to always be stealing all the time away. People are constantly having meeting and deadlines all the time. Sometimes I wonder if we're not just all stuck in a constant circular fall into a void of alternative responsibilities.
-
-It's the day before demo day. Ironically, all of us have a bunch of other things we have to do by tomorrow. The very unfortunate effect of having a important master thesis deadline on the same day as the demo. And I have an examination in my *other* course as well. Fortunately, the time stolen away by that is set in stone, so I won't find myself at 3 AM up to my knees in madness.
-
-We have a pretty clear set of priorities right now. There's a list of issues that need solving, of which some are critical, and others are a bonus. The critical ones seem achievable thankfully. But I am concerned about exactly how much time the team will have to dedicate to this course in the end. I'm getting the feeling that the attention is being directed away from this project, which is unfortunate, because to me, I'd like to focus the most right here. So once again, a discrepancy in personal attention is turning the KTH experience into a dull and drab affair. I shouldn't count us out just yet though.
-
-I've tried figuring out what I can do to direct people's capabilities a bit better, and get the team more focused. Clearly, just organizing is not the key. I've never had a project that was more technically organized, but we still haven't been sharing a vision or been fully invested together. I've encountered the idea that a team must feel a sense of shared fate to really become synced. That makes a lot of sense. And seems utterly unattainable, especially when we never even meet in person once. It seems completely beyond my reach honestly. But at the same time, a professional manner has to count for something. I feel like I've at least gathered a little bit of data now that might make a difference next time. To bad I won't be doing any more project courses for the duration of my University studies. Reality, here I come, woefully unprepared.
-
-By this time tomorrow we'll have shown our game and this whole affair will mostly be over. Only the documentation will remain, where my previous organizational preparations will absolutely benefit us in terms of workload.
+First entry in my second public online blog. Exciting. This series of entries will journal my work on the **DH2650 Game Design** course at KTH in the fall of 2020. Took the opportunity to use my personal Github page as a host since it will incentivize me to put some work into it, and make it look nicer. Prepare it for the future etc.  Right now, there's nothing here except this blog. None of the buttons work. No links are active. But at least I have a layout. Now all I need is a game idea. Good thing there are a few I made earlier.
 
 ---
 
-# The Proverbial Light: Dec 10, 2020
-
-My sterling managerial skills showed their full prowess today. First the team member that was supposed to come to a presentation did an all-nighter and was to broken to attend. Then we did some desperate scurrying to somehow solve the situation, but gave up pretty soon when no solution seemed in sight. But after the professor had been informed that nobody would be attending the, fortunately voluntary, presentation; one team member who hadn't been part of the initial conversation at all turned up the presentation anyway. So on the one hand, we got to show of some stuff and get a little bit of feedback. But we must have looked pretty damn disorganized.
-
-This time, nothing was actually at stake. But what if it had been. I actually tried organizing this event properly. Certainly, for the purpose of the course I'm not actually carrying the full responsibility that a manager would in the real world scenario. But there are limits to how clumsily things can be allowed to unfold.
-
-I actually did fairly well in terms of organizing what needs to get done until **D-day**. We had a set of tasks, priorites and essentially all we needed. But the team was unable to dedicate the time needed to actually complete everything we wanted by this morning. In terms of lessons, I have thought of a couple of things in the communications department that I could have improved.
-
- 1. Set up com-channels with clear *discussion* and *update* tags. The newsfeed of information that is essential for everyone has to be parsable. In our case, it has often been wrapped in dozens of regular chat messages, which makes it exhausting to keep up.
- 2. Directory discipline. I always forget stuff like this. The folder with all our stuff needs to be kept clean as a baby's bottom. We mentioned git and talked about stuff adjacent to this at the start of the project. But things where never properly formalized, so now we have a increasingly messy project folder with thousands of files that can't be moved now without a buttload of dependency problems.
-
- One piece of good news, the Trello model actually works. The team still doesn't quite get how to use it, since I made it up. I can confirm however that constantly working towards implementing the most simple version of the task every time is the way to go. That way, it becomes realistic to define what is a completed task, and then you just redefine based on the improvements you can see from the simpler proto version we just built.
-
- I'm sure this will prove completely useless in the future when something I haven't considered at all makes an entrance. War is hell.
-
----
-
-# Crunch-Time: Dec 7, 2020
-
-It has arrived. The last week of development. I guess we're not in a bad pace for it, but I have to admit that I find our progress to be a bit mediocre. We really never managed to get into the combined vision until this very Monday. At least I think we actually are on the same page. There is a demo script that details most of the things we need to make. The list is quite long though, and due to our ineffective application so far we really don't have much to start from. One really good piece of news however is that we managed to run some test scenes in a browser. From what we can see, we aren't pushing the limits of computational ability of firefox, so our finished game will probably run fine. Wonderful! Had it not worked there was a backup plan, but this just works MUCH better int terms of presentation. Interested in our game? Just go to the website and play the demo within 30 seconds.
-
-Even if the list of todos is long, the idea is still really good and the demo is actually going to look quite good. I just hope we can finish enough to make it pop! This will be a fun week.
-
----
-
-# Management 101: Dec 2: 2020
-
-I think one major issue has been that I've neglected the need to actively follow up on how people are getting along. I've just encouraged them to come tell me what they are working on and update me on their situation. What should have happened is me going to them, asking them how things are coming along and what they need. So one lesson here is that even though I made the right move establishing a management role in the group, I didn't actually do that work myself.
-
-It was quite difficult though. Knowing when and how often to get in touch. And also there wasn't a natural vector for it. What's more is today we payed the price with our first merge conflict. It wasn't too serious. But one of our active branches had become quite cluttered and it was obvious that people hasn't fully understood how I intended the workflow to progress. It also became obvious that the priorities weren't clear either. Or the current goal.
-
-It was my job to keep people organized. If I'm not going to make sure they fully understood the maze of instructions I give them, I may as well not tell them anything at all. So the lesson here is that no matter how nice and neat i believe my project structure is, it will never survive first contact with reality if I'm not actively there showing the way.
-
-Despite any erosion's in order we may have suffered, some good things came out of today. Some new movement physics that actually look pretty nice. And we are very close to a first level. There's also some nice placeholder stuff for a menu screen and many good ideas are in the pipe. We just need to organize ourselves again and comfortable. Then we'll zoom away and nothing will stop us. Except maybe death.
-
----
-
-# The good old half-way-plateau: Dec 1, 2020
-
-While the team has gotten a good restart these last two days, the last two weeks have been remarkably slow. Only some small tasks got solved and essentially no milestones where reached. Which unfortunately is a big failure of my responsibilities. On the one hand I could go easy on myself since a project like this can't really expect me to fully carry a managing role, but I did take it upon myself to carry the managerial side of things. And I have been doing it more than ever before. But the team is still unsure of what to do, don't share the same vision and aren't working towards the same goal. There are some mitigating circumstances for sure, but I'm starting to suspect that I am a larger part of the problem than I thought. After all, the one thing every single crappy team project I've been apart of have in common is, well... me.
-
-So what to do. I'm getting some assistance from the fact that the deadline is racing towards us and now the panic is spreading in the ranks. Also, most of us are getting liberated from very intensive phases in other courses. So there is hope. Two weeks are quite enough to achieve some pretty great things. We still need to work on getting a more rigid git routine and to use the trello board better. There is also the matter of documenting all the work we are doing, and not get lost in the treacherous rush of just working and keeping everything in our own heads. I'm feeling fairly confident that things will turn around and pan out in the end.
-
----
-
-# Demos and Playtesting: Nov 20, 2020
-
-Alright. We're cooking. While the rest of the team seem occupied by a lot of other tasks, and the distance aspect is making it really hard to get a proper flow going. Life needs process. More so now than ever. Everything is off kilter. We don't reason the same, don't see the world the same, don't name our git commits the same. Every course has been like this for almost a year and it's driving me crazy.  
-
-BUT, we are actually making some progress. There is some physics in place that looks really nice and despite the difficulty really reaching a cohesive vision amongst us, I still think stuff looks remarkably like what at least I had in mind from the start. I'm doing what I can to keep a conversation going but I find it far outside my own capacity to actually bring a team to that point. It takes a long time to bring real cooperative symmetry when people work in the same room, now we won't even get to do it once.  
-
-Oh well. We'll do what we can. In either event, we are getting great feedback on the idea and I'm actually starting to learn how Unity works. Soon we'll be able to do some actual playtesting. Figure out what is fun and what is less fun. I did notice that I could'nt even imagine what a first puzzle level might look like. In my head, the game is much more platformer action than a pure puzzle game. Fortunately it's not only my task to figure that out. And if the game is better as something else, that's what we'll make. The Hugo award winning story would fit anything and most of our ideas could really go any direction while still being great. We'll see.
-
----
-
-# My Kingdom for some organization: Nov 14, 2020
-
-So, first there was a quick pitch on Thursday the 11th, which went quite well. We presented what is going to be our core mechanic; a small player character solving puzzles in an exploratory environment by changing his own state of matter. We got some great feedback and have since brainstormed further details. We will be telling the story of **Biscuit the sentient cookie dough** who is on a quest to escape the lab in which he was created without becoming baked into a pastry.  
-
-We also setup a Trello board and devized what we hope will be an effective way to use it. A sort of slight variation on the simple Kanban board. We won't be scrumming, since the project will hardly reach a size where that would be meaningful, and it's a pretty clumsy framework anyway. Better to keep it simple and do a lot of testing. We have also starterd playing with some physics in Unity, which will be our primary tool. In the week to come we will build a first playable demo. The group is pretty excited and things are coming along nicely. We just have to cross that first hurdle where we go from nothing into an actual code project that can be effectively worked on. A task that is deceitfully complex. Even for masters of the Universe like us.  
-
----
-
-# Great News! We have an idea: Nov 9, 2020
-
-So, it seems the group has come into an agreement. A concept is really taking shape and it's quite fun. I won't be describing it here quite yet, but there is a basic mechanic and several choices as to what kind of path we will take. But it's a puzzle and exploration game based on a fun physics twist. I'm excited. And the team seems to be as well.  
-
-It is difficult to really know what the very first steps should be though. Obviously there's a presentation coming up, but that's not more than an hour of quick work as soon as we have agreed properly. But really getting started to actually build our game, how does a group our size take a first step? We've planned to have a sit down and start hashing out tasks. But that seems like a overkill if the entire group is present.  
-
-I'd really like for us to have a proper creative director who takes it upon themselves to bang out the initial vision while the rest of the group start tinkering with the engine. We'll be going with Unity, so that's a start. But we can't all be doing the same thing. There needs to be a division. Maybe if we split into managerial, creative and backend divisions. Then there's max two people getting a task going which makes sense. I'll probably suggest something along those lines tomorrow. Seems like a classic mistake to have the entire crew be involved in all the movements and we should get away from that asap.  
-
-Anyhow, progress is happening. Once we clear this initial hurdle, we'll smash through the rest like a mechanized rhino in a jet-engine factory.
-
----
-
-# Brainstorming: NOVEMBER 6, 2020
+## Brainstorming: NOVEMBER 6, 2020
 
 The project group had its very first meeting today. So far so good. I'm cautiously optimistic so far. I think it's safe to hope, without risk of too much heartache, that this group will work well together. We had a quick meet and greet, spoke a bit about backgrounds and ambition, went over what organizational tools we'll be using and had us a quick brainstorm.  
 
@@ -127,8 +34,107 @@ That will be slightly dependent on the actual game idea however, which we also t
 
 ---
 
-# GETTING MY BLOG ON: NOVEMBER 3, 2020
+## Great News! We have an idea: Nov 9, 2020
 
-First entry in my second public online blog. Exciting. This series of entries will journal my work on the **DH2650 Game Design** course at KTH in the fall of 2020. Took the opportunity to use my personal Github page as a host since it will incentivize me to put some work into it, and make it look nicer. Prepare it for the future etc.  Right now, there's nothing here except this blog. None of the buttons work. No links are active. But at least I have a layout. Now all I need is a game idea. Good thing there are a few I made earlier.
+So, it seems the group has come into an agreement. A concept is really taking shape and it's quite fun. I won't be describing it here quite yet, but there is a basic mechanic and several choices as to what kind of path we will take. But it's a puzzle and exploration game based on a fun physics twist. I'm excited. And the team seems to be as well.  
+
+It is difficult to really know what the very first steps should be though. Obviously there's a presentation coming up, but that's not more than an hour of quick work as soon as we have agreed properly. But really getting started to actually build our game, how does a group our size take a first step? We've planned to have a sit down and start hashing out tasks. But that seems like a overkill if the entire group is present.  
+
+I'd really like for us to have a proper creative director who takes it upon themselves to bang out the initial vision while the rest of the group start tinkering with the engine. We'll be going with Unity, so that's a start. But we can't all be doing the same thing. There needs to be a division. Maybe if we split into managerial, creative and backend divisions. Then there's max two people getting a task going which makes sense. I'll probably suggest something along those lines tomorrow. Seems like a classic mistake to have the entire crew be involved in all the movements and we should get away from that asap.  
+
+Anyhow, progress is happening. Once we clear this initial hurdle, we'll smash through the rest like a mechanized rhino in a jet-engine factory.
+
+---
+
+## My Kingdom for some organization: Nov 14, 2020
+
+So, first there was a quick pitch on Thursday the 11th, which went quite well. We presented what is going to be our core mechanic; a small player character solving puzzles in an exploratory environment by changing his own state of matter. We got some great feedback and have since brainstormed further details. We will be telling the story of **Biscuit the sentient cookie dough** who is on a quest to escape the lab in which he was created without becoming baked into a pastry.  
+
+We also setup a Trello board and devized what we hope will be an effective way to use it. A sort of slight variation on the simple Kanban board. We won't be scrumming, since the project will hardly reach a size where that would be meaningful, and it's a pretty clumsy framework anyway. Better to keep it simple and do a lot of testing. We have also starterd playing with some physics in Unity, which will be our primary tool. In the week to come we will build a first playable demo. The group is pretty excited and things are coming along nicely. We just have to cross that first hurdle where we go from nothing into an actual code project that can be effectively worked on. A task that is deceitfully complex. Even for masters of the Universe like us.  
+
+---
+
+## Demos and Playtesting: Nov 20, 2020
+
+Alright. We're cooking. While the rest of the team seem occupied by a lot of other tasks, and the distance aspect is making it really hard to get a proper flow going. Life needs process. More so now than ever. Everything is off kilter. We don't reason the same, don't see the world the same, don't name our git commits the same. Every course has been like this for almost a year and it's driving me crazy.  
+
+BUT, we are actually making some progress. There is some physics in place that looks really nice and despite the difficulty really reaching a cohesive vision amongst us, I still think stuff looks remarkably like what at least I had in mind from the start. I'm doing what I can to keep a conversation going but I find it far outside my own capacity to actually bring a team to that point. It takes a long time to bring real cooperative symmetry when people work in the same room, now we won't even get to do it once.  
+
+Oh well. We'll do what we can. In either event, we are getting great feedback on the idea and I'm actually starting to learn how Unity works. Soon we'll be able to do some actual playtesting. Figure out what is fun and what is less fun. I did notice that I could'nt even imagine what a first puzzle level might look like. In my head, the game is much more platformer action than a pure puzzle game. Fortunately it's not only my task to figure that out. And if the game is better as something else, that's what we'll make. The Hugo award winning story would fit anything and most of our ideas could really go any direction while still being great. We'll see.
+
+---
+
+## The good old half-way-plateau: Dec 1, 2020
+
+While the team has gotten a good restart these last two days, the last two weeks have been remarkably slow. Only some small tasks got solved and essentially no milestones where reached. Which unfortunately is a big failure of my responsibilities. On the one hand I could go easy on myself since a project like this can't really expect me to fully carry a managing role, but I did take it upon myself to carry the managerial side of things. And I have been doing it more than ever before. But the team is still unsure of what to do, don't share the same vision and aren't working towards the same goal. There are some mitigating circumstances for sure, but I'm starting to suspect that I am a larger part of the problem than I thought. After all, the one thing every single crappy team project I've been apart of have in common is, well... me.
+
+So what to do. I'm getting some assistance from the fact that the deadline is racing towards us and now the panic is spreading in the ranks. Also, most of us are getting liberated from very intensive phases in other courses. So there is hope. Two weeks are quite enough to achieve some pretty great things. We still need to work on getting a more rigid git routine and to use the trello board better. There is also the matter of documenting all the work we are doing, and not get lost in the treacherous rush of just working and keeping everything in our own heads. I'm feeling fairly confident that things will turn around and pan out in the end.
+
+---
+
+## Management 101: Dec 2: 2020
+
+I think one major issue has been that I've neglected the need to actively follow up on how people are getting along. I've just encouraged them to come tell me what they are working on and update me on their situation. What should have happened is me going to them, asking them how things are coming along and what they need. So one lesson here is that even though I made the right move establishing a management role in the group, I didn't actually do that work myself.
+
+It was quite difficult though. Knowing when and how often to get in touch. And also there wasn't a natural vector for it. What's more is today we payed the price with our first merge conflict. It wasn't too serious. But one of our active branches had become quite cluttered and it was obvious that people hasn't fully understood how I intended the workflow to progress. It also became obvious that the priorities weren't clear either. Or the current goal.
+
+It was my job to keep people organized. If I'm not going to make sure they fully understood the maze of instructions I give them, I may as well not tell them anything at all. So the lesson here is that no matter how nice and neat i believe my project structure is, it will never survive first contact with reality if I'm not actively there showing the way.
+
+Despite any erosion's in order we may have suffered, some good things came out of today. Some new movement physics that actually look pretty nice. And we are very close to a first level. There's also some nice placeholder stuff for a menu screen and many good ideas are in the pipe. We just need to organize ourselves again and comfortable. Then we'll zoom away and nothing will stop us. Except maybe death.
+
+---
+
+## Crunch-Time: Dec 7, 2020
+
+It has arrived. The last week of development. I guess we're not in a bad pace for it, but I have to admit that I find our progress to be a bit mediocre. We really never managed to get into the combined vision until this very Monday. At least I think we actually are on the same page. There is a demo script that details most of the things we need to make. The list is quite long though, and due to our ineffective application so far we really don't have much to start from. One really good piece of news however is that we managed to run some test scenes in a browser. From what we can see, we aren't pushing the limits of computational ability of firefox, so our finished game will probably run fine. Wonderful! Had it not worked there was a backup plan, but this just works MUCH better int terms of presentation. Interested in our game? Just go to the website and play the demo within 30 seconds.
+
+Even if the list of todos is long, the idea is still really good and the demo is actually going to look quite good. I just hope we can finish enough to make it pop! This will be a fun week.
+
+---
+
+## The Proverbial Light: Dec 10, 2020
+
+My sterling managerial skills showed their full prowess today. First the team member that was supposed to come to a presentation did an all-nighter and was to broken to attend. Then we did some desperate scurrying to somehow solve the situation, but gave up pretty soon when no solution seemed in sight. But after the professor had been informed that nobody would be attending the, fortunately voluntary, presentation; one team member who hadn't been part of the initial conversation at all turned up the presentation anyway. So on the one hand, we got to show of some stuff and get a little bit of feedback. But we must have looked pretty damn disorganized.
+
+This time, nothing was actually at stake. But what if it had been. I actually tried organizing this event properly. Certainly, for the purpose of the course I'm not actually carrying the full responsibility that a manager would in the real world scenario. But there are limits to how clumsily things can be allowed to unfold.
+
+I actually did fairly well in terms of organizing what needs to get done until **D-day**. We had a set of tasks, priorites and essentially all we needed. But the team was unable to dedicate the time needed to actually complete everything we wanted by this morning. In terms of lessons, I have thought of a couple of things in the communications department that I could have improved.
+
+ 1. Set up com-channels with clear *discussion* and *update* tags. The newsfeed of information that is essential for everyone has to be parsable. In our case, it has often been wrapped in dozens of regular chat messages, which makes it exhausting to keep up.
+ 2. Directory discipline. I always forget stuff like this. The folder with all our stuff needs to be kept clean as a baby's bottom. We mentioned git and talked about stuff adjacent to this at the start of the project. But things where never properly formalized, so now we have a increasingly messy project folder with thousands of files that can't be moved now without a buttload of dependency problems.
+
+ One piece of good news, the Trello model actually works. The team still doesn't quite get how to use it, since I made it up. I can confirm however that constantly working towards implementing the most simple version of the task every time is the way to go. That way, it becomes realistic to define what is a completed task, and then you just redefine based on the improvements you can see from the simpler proto version we just built.
+
+ I'm sure this will prove completely useless in the future when something I haven't considered at all makes an entrance. War is hell.
+
+---
+
+## T-24 hours: Dec 14, 2020
+
+Every single group member except for me is taking a course in advanced graphics, and that damn thing has eaten up so much of our time now that I may have to claim vengeance. I will have satisfaction! Amusingly, *other* courses seem to always be stealing all the time away. People are constantly having meeting and deadlines all the time. Sometimes I wonder if we're not just all stuck in a constant circular fall into a void of alternative responsibilities.
+
+It's the day before demo day. Ironically, all of us have a bunch of other things we have to do by tomorrow. The very unfortunate effect of having a important master thesis deadline on the same day as the demo. And I have an examination in my *other* course as well. Fortunately, the time stolen away by that is set in stone, so I won't find myself at 3 AM up to my knees in madness.
+
+We have a pretty clear set of priorities right now. There's a list of issues that need solving, of which some are critical, and others are a bonus. The critical ones seem achievable thankfully. But I am concerned about exactly how much time the team will have to dedicate to this course in the end. I'm getting the feeling that the attention is being directed away from this project, which is unfortunate, because to me, I'd like to focus the most right here. So once again, a discrepancy in personal attention is turning the KTH experience into a dull and drab affair. I shouldn't count us out just yet though.
+
+I've tried figuring out what I can do to direct people's capabilities a bit better, and get the team more focused. Clearly, just organizing is not the key. I've never had a project that was more technically organized, but we still haven't been sharing a vision or been fully invested together. I've encountered the idea that a team must feel a sense of shared fate to really become synced. That makes a lot of sense. And seems utterly unattainable, especially when we never even meet in person once. It seems completely beyond my reach honestly. But at the same time, a professional manner has to count for something. I feel like I've at least gathered a little bit of data now that might make a difference next time. To bad I won't be doing any more project courses for the duration of my University studies. Reality, here I come, woefully unprepared.
+
+By this time tomorrow we'll have shown our game and this whole affair will mostly be over. Only the documentation will remain, where my previous organizational preparations will absolutely benefit us in terms of workload.
+
+---
+
+## One Post To Find Them, And In The Darkness Bind Them: Dec 18, 2020
+
+Ok, so essentially that's done. As this post is being written, the final report is being finished and by midnight tonight at the latest this course will be over. I'm not especially pleased with my own effort in this game, but I would at least say I more than did my share of the work. All in all, apart from the Creative Director, I put the most hours into the project of the whole team.
+
+I would say that I also pulled the most weight in the GDD as well. During the whole course of the project I tinkered a lot with that document and tried to keep it updated and partially filled in. The general structure was set by me so that we easily could divide the work into blocks that just needed to be expanded and filled in. In terms direct contribution, the *Business Plan* section and the *development procedures and standards* section are mine.
+
+All in all, the biggest problem I had with this project is that I never had especially fun. That seems to be a recurring issue. I've been quite the bitter little smurf lately. Displeased with my own as well as my colleagues work. And there's not really a reason for that. In most respects, the team has performed quite well, with some exceptions. In the context, I think most of the team was as dependable as I could rightfully expect. And in terms of achievements, we did get further than I have in many other courses. On top of that, the idea is really good, and is one that I would really like to keep working on after this course.
+
+The presentation didn't go to bad either. We got some last minute absurd bugs of the kind that are essentially impossible to predict. While we would have caught them a little bit earlier if the team as a whole got a better routine for testing, there was never enough time to fix them. Besides, problems like that are really a rite of passage, and I'm bringing a ton of personal experience in terms of process with me from this course. Which is really what I wanted the most.
+
+So, silver lining. I'll take that small victory and go enjoy Christmas.
+
+`kay bye!`
 
 ---
