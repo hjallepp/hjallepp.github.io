@@ -1,3 +1,9 @@
+# Changing The World, One Miniscule Change At A Time MAY 31, 2021
+
+So this whole page is now hosted on my private web server. The total amount of work to get this working was essentially one aternoon. But since I'm such a slow boiling muppet, it's taken me at least a year. Fortunately, it's never too late to change. The website really needs a lot of improvement, but at least I can put a proper hostname on my business card. If I ever get business cards. Those are just a scourge on the environment. 
+
+Anyway. Big change for this guy. 
+
 # The Course Blog That Made No Impact
 
 Within this entry ye will find the last words of David The Plainclothed, as he recounts the experience of participating in a Game Design course at KTH in the fall of the year of our lord 2020. Look below, for the entries describing the descent into madness. Tremble ye faithful.
