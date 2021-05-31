@@ -10,9 +10,7 @@ Anyway. Big change for this guy.
 
 **Within this entry ye will find the last words of David The Plainclothed, as he recounts the experience of participating in a Game Design course at KTH in the fall of the year of our lord 2020. Look below, for the entries describing the descent into madness. Tremble ye faithful.**
 
-> "My past is Everything I failed to be."
-
-- Fernando Pessoa
+> "My past is Everything I failed to be." - Fernando Pessoa
 
 
 ## GETTING MY BLOG ON: NOVEMBER 3, 2020
