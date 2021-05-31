@@ -1,8 +1,10 @@
-# Changing The World, One Miniscule Change At A Time MAY 31, 2021
+# MAY 31, 2021, Changing The World, One Miniscule Change At A Time
 
 So this whole page is now hosted on my private web server. The total amount of work to get this working was essentially one aternoon. But since I'm such a slow boiling muppet, it's taken me at least a year. Fortunately, it's never too late to change. The website really needs a lot of improvement, but at least I can put a proper hostname on my business card. If I ever get business cards. Those are just a scourge on the environment. 
 
 Anyway. Big change for this guy. 
+
+---
 
 # The Course Blog That Made No Impact
 
@@ -12,7 +14,7 @@ Within this entry ye will find the last words of David The Plainclothed, as he r
 
 ## GETTING MY BLOG ON: NOVEMBER 3, 2020
 
-First entry in my second public online blog. Exciting. This series of entries will journal my work on the **DH2650 Game Design** course at KTH in the fall of 2020. Took the opportunity to use my personal Github page as a host since it will incentivize me to put some work into it, and make it look nicer. Prepare it for the future etc.  Right now, there's nothing here except this blog. None of the buttons work. No links are active. But at least I have a layout. Now all I need is a game idea. Good thing there are a few I made earlier.
+First entry in my second public online blog. Exciting. This series of entries will journal my work on the **DH2650 Game Design** course at KTH in the fall of 2020. Took the opportunity to use my personal Github page as a host since it will incentivize me to put some work into it, and make it look nicer. Prepare it for the future etc.  Right now, there's nothing here except this blog. None of the buttons work. No links are active. But at least I have a layout. Now all I need is a game idea. Good thing there are a few I made earlier.Y
 
 ---
 
