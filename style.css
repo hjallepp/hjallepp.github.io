@@ -48,11 +48,14 @@ header .navbtn-hover {
   text-align: center;
 }
 
-.navitems li {
+ul.navitems > li {
   font-size: 2em;
   display: inline-block;
-  margin-left: 15px;
-  margin-right: 15px;
+}
+
+a.navicon {
+  padding: 0 15px;
+
 }
 
 .navitems a:hover {
